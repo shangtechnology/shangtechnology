@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shangtechnology - Mining Productivity and Real Estate Insights Specialist
 - 👀 I’m interested in Data Science - Focussed mainly on mining, real estate and financial services industries.
 - 🌱 I’m currently enhancing my AI and Neural Network skills
-- 💞️ I’m looking to collaborate on any data science projects, my way of giving back is using data science to combat cancer.
+- 💞️ I’m looking to collaborate on any data science projects.
 - 📫 How to reach me 
 
 <!---
